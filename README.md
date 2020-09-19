@@ -1,8 +1,8 @@
 # test
 Day 3 - Exercise 2 - Attempt 2
-# The Best Header in the History of Headers
+# Programming Magic Show
 ![Morocco](https://github.com/1monalisa1/test/blob/master/images/Morocco.jpg)
-## This is a very descriptive description.
+## All of the things needed to do the stuff.
 
 ### Table of Contents
 > #### Code
